@@ -1,6 +1,6 @@
 # SSSS
 
-My Python implementation of Shamir's Secret Sharing System
+My Python implementation of Shamir's Secret Sharing System - Run through command line interface
 
 https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing
 
